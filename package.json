@@ -1,0 +1,7 @@
+{
+  "name": "bash-utils",
+  "version": "1.0.0",
+  "description": "Bash utilities",
+  "main": "init.sh",
+  "scripts": ["lib/*.sh"]
+}
